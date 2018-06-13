@@ -13,6 +13,21 @@
 		21570C4420D1B7FB00D7EE0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21570C4320D1B7FB00D7EE0B /* Assets.xcassets */; };
 		21570C4720D1B7FB00D7EE0B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21570C4520D1B7FB00D7EE0B /* LaunchScreen.storyboard */; };
 		21570C4A20D1B7FB00D7EE0B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 21570C4920D1B7FB00D7EE0B /* main.m */; };
+		21BBF24F20D1CC68002595FD /* DoorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 21BBF24E20D1CC68002595FD /* DoorViewController.m */; };
+		21BBF25220D1CC76002595FD /* CoatRoomViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 21BBF25120D1CC76002595FD /* CoatRoomViewController.m */; };
+		21BBF25520D1CC7D002595FD /* LibraryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 21BBF25420D1CC7D002595FD /* LibraryViewController.m */; };
+		21BBF25820D1CC86002595FD /* SecretPassageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 21BBF25720D1CC86002595FD /* SecretPassageViewController.m */; };
+		21BBF25B20D1CC8D002595FD /* DungeonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 21BBF25A20D1CC8D002595FD /* DungeonViewController.m */; };
+		21BBF25E20D1CC95002595FD /* LabratoryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 21BBF25D20D1CC95002595FD /* LabratoryViewController.m */; };
+		21BBF26120D1CC9B002595FD /* GeneratorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 21BBF26020D1CC9B002595FD /* GeneratorViewController.m */; };
+		21BBF26420D1CCA7002595FD /* MysteriousLakeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 21BBF26320D1CCA7002595FD /* MysteriousLakeViewController.m */; };
+		21BBF26720D1CCAE002595FD /* CursedChaliceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 21BBF26620D1CCAE002595FD /* CursedChaliceViewController.m */; };
+		21BBF26A20D1CCBC002595FD /* DiningRoomViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 21BBF26920D1CCBC002595FD /* DiningRoomViewController.m */; };
+		21BBF26D20D1CCC1002595FD /* KitchenViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 21BBF26C20D1CCC1002595FD /* KitchenViewController.m */; };
+		21BBF27020D1CCC8002595FD /* BackPorchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 21BBF26F20D1CCC8002595FD /* BackPorchViewController.m */; };
+		21BBF27320D1CCD0002595FD /* StairsUpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 21BBF27220D1CCD0002595FD /* StairsUpViewController.m */; };
+		21BBF27620D1CCD8002595FD /* BedroomViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 21BBF27520D1CCD8002595FD /* BedroomViewController.m */; };
+		21BBF27920D1CCE0002595FD /* BathroomViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 21BBF27820D1CCE0002595FD /* BathroomViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +41,36 @@
 		21570C4620D1B7FB00D7EE0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		21570C4820D1B7FB00D7EE0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		21570C4920D1B7FB00D7EE0B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		21BBF24D20D1CC68002595FD /* DoorViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DoorViewController.h; sourceTree = "<group>"; };
+		21BBF24E20D1CC68002595FD /* DoorViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DoorViewController.m; sourceTree = "<group>"; };
+		21BBF25020D1CC76002595FD /* CoatRoomViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CoatRoomViewController.h; sourceTree = "<group>"; };
+		21BBF25120D1CC76002595FD /* CoatRoomViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CoatRoomViewController.m; sourceTree = "<group>"; };
+		21BBF25320D1CC7D002595FD /* LibraryViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LibraryViewController.h; sourceTree = "<group>"; };
+		21BBF25420D1CC7D002595FD /* LibraryViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LibraryViewController.m; sourceTree = "<group>"; };
+		21BBF25620D1CC86002595FD /* SecretPassageViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecretPassageViewController.h; sourceTree = "<group>"; };
+		21BBF25720D1CC86002595FD /* SecretPassageViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecretPassageViewController.m; sourceTree = "<group>"; };
+		21BBF25920D1CC8D002595FD /* DungeonViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DungeonViewController.h; sourceTree = "<group>"; };
+		21BBF25A20D1CC8D002595FD /* DungeonViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DungeonViewController.m; sourceTree = "<group>"; };
+		21BBF25C20D1CC95002595FD /* LabratoryViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LabratoryViewController.h; sourceTree = "<group>"; };
+		21BBF25D20D1CC95002595FD /* LabratoryViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LabratoryViewController.m; sourceTree = "<group>"; };
+		21BBF25F20D1CC9B002595FD /* GeneratorViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GeneratorViewController.h; sourceTree = "<group>"; };
+		21BBF26020D1CC9B002595FD /* GeneratorViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GeneratorViewController.m; sourceTree = "<group>"; };
+		21BBF26220D1CCA7002595FD /* MysteriousLakeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MysteriousLakeViewController.h; sourceTree = "<group>"; };
+		21BBF26320D1CCA7002595FD /* MysteriousLakeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MysteriousLakeViewController.m; sourceTree = "<group>"; };
+		21BBF26520D1CCAE002595FD /* CursedChaliceViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CursedChaliceViewController.h; sourceTree = "<group>"; };
+		21BBF26620D1CCAE002595FD /* CursedChaliceViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CursedChaliceViewController.m; sourceTree = "<group>"; };
+		21BBF26820D1CCBC002595FD /* DiningRoomViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DiningRoomViewController.h; sourceTree = "<group>"; };
+		21BBF26920D1CCBC002595FD /* DiningRoomViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DiningRoomViewController.m; sourceTree = "<group>"; };
+		21BBF26B20D1CCC1002595FD /* KitchenViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KitchenViewController.h; sourceTree = "<group>"; };
+		21BBF26C20D1CCC1002595FD /* KitchenViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KitchenViewController.m; sourceTree = "<group>"; };
+		21BBF26E20D1CCC8002595FD /* BackPorchViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BackPorchViewController.h; sourceTree = "<group>"; };
+		21BBF26F20D1CCC8002595FD /* BackPorchViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BackPorchViewController.m; sourceTree = "<group>"; };
+		21BBF27120D1CCD0002595FD /* StairsUpViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StairsUpViewController.h; sourceTree = "<group>"; };
+		21BBF27220D1CCD0002595FD /* StairsUpViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StairsUpViewController.m; sourceTree = "<group>"; };
+		21BBF27420D1CCD8002595FD /* BedroomViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BedroomViewController.h; sourceTree = "<group>"; };
+		21BBF27520D1CCD8002595FD /* BedroomViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BedroomViewController.m; sourceTree = "<group>"; };
+		21BBF27720D1CCE0002595FD /* BathroomViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BathroomViewController.h; sourceTree = "<group>"; };
+		21BBF27820D1CCE0002595FD /* BathroomViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BathroomViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +108,36 @@
 				21570C3D20D1B7F900D7EE0B /* ViewController.h */,
 				21570C3E20D1B7F900D7EE0B /* ViewController.m */,
 				21570C4020D1B7F900D7EE0B /* Main.storyboard */,
+				21BBF24D20D1CC68002595FD /* DoorViewController.h */,
+				21BBF24E20D1CC68002595FD /* DoorViewController.m */,
+				21BBF25020D1CC76002595FD /* CoatRoomViewController.h */,
+				21BBF25120D1CC76002595FD /* CoatRoomViewController.m */,
+				21BBF25320D1CC7D002595FD /* LibraryViewController.h */,
+				21BBF25420D1CC7D002595FD /* LibraryViewController.m */,
+				21BBF25620D1CC86002595FD /* SecretPassageViewController.h */,
+				21BBF25720D1CC86002595FD /* SecretPassageViewController.m */,
+				21BBF25920D1CC8D002595FD /* DungeonViewController.h */,
+				21BBF25A20D1CC8D002595FD /* DungeonViewController.m */,
+				21BBF25C20D1CC95002595FD /* LabratoryViewController.h */,
+				21BBF25D20D1CC95002595FD /* LabratoryViewController.m */,
+				21BBF25F20D1CC9B002595FD /* GeneratorViewController.h */,
+				21BBF26020D1CC9B002595FD /* GeneratorViewController.m */,
+				21BBF26220D1CCA7002595FD /* MysteriousLakeViewController.h */,
+				21BBF26320D1CCA7002595FD /* MysteriousLakeViewController.m */,
+				21BBF26520D1CCAE002595FD /* CursedChaliceViewController.h */,
+				21BBF26620D1CCAE002595FD /* CursedChaliceViewController.m */,
+				21BBF26820D1CCBC002595FD /* DiningRoomViewController.h */,
+				21BBF26920D1CCBC002595FD /* DiningRoomViewController.m */,
+				21BBF26B20D1CCC1002595FD /* KitchenViewController.h */,
+				21BBF26C20D1CCC1002595FD /* KitchenViewController.m */,
+				21BBF26E20D1CCC8002595FD /* BackPorchViewController.h */,
+				21BBF26F20D1CCC8002595FD /* BackPorchViewController.m */,
+				21BBF27120D1CCD0002595FD /* StairsUpViewController.h */,
+				21BBF27220D1CCD0002595FD /* StairsUpViewController.m */,
+				21BBF27420D1CCD8002595FD /* BedroomViewController.h */,
+				21BBF27520D1CCD8002595FD /* BedroomViewController.m */,
+				21BBF27720D1CCE0002595FD /* BathroomViewController.h */,
+				21BBF27820D1CCE0002595FD /* BathroomViewController.m */,
 				21570C4320D1B7FB00D7EE0B /* Assets.xcassets */,
 				21570C4520D1B7FB00D7EE0B /* LaunchScreen.storyboard */,
 				21570C4820D1B7FB00D7EE0B /* Info.plist */,
@@ -141,9 +216,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				21BBF25520D1CC7D002595FD /* LibraryViewController.m in Sources */,
+				21BBF27620D1CCD8002595FD /* BedroomViewController.m in Sources */,
+				21BBF25B20D1CC8D002595FD /* DungeonViewController.m in Sources */,
+				21BBF26420D1CCA7002595FD /* MysteriousLakeViewController.m in Sources */,
+				21BBF27020D1CCC8002595FD /* BackPorchViewController.m in Sources */,
+				21BBF25E20D1CC95002595FD /* LabratoryViewController.m in Sources */,
+				21BBF27920D1CCE0002595FD /* BathroomViewController.m in Sources */,
 				21570C3F20D1B7F900D7EE0B /* ViewController.m in Sources */,
 				21570C4A20D1B7FB00D7EE0B /* main.m in Sources */,
+				21BBF25820D1CC86002595FD /* SecretPassageViewController.m in Sources */,
+				21BBF24F20D1CC68002595FD /* DoorViewController.m in Sources */,
+				21BBF25220D1CC76002595FD /* CoatRoomViewController.m in Sources */,
+				21BBF26120D1CC9B002595FD /* GeneratorViewController.m in Sources */,
+				21BBF26720D1CCAE002595FD /* CursedChaliceViewController.m in Sources */,
+				21BBF26A20D1CCBC002595FD /* DiningRoomViewController.m in Sources */,
+				21BBF27320D1CCD0002595FD /* StairsUpViewController.m in Sources */,
 				21570C3C20D1B7F900D7EE0B /* AppDelegate.m in Sources */,
+				21BBF26D20D1CCC1002595FD /* KitchenViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

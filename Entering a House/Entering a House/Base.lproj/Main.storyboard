@@ -40,10 +40,10 @@
             </objects>
             <point key="canvasLocation" x="1076" y="-569"/>
         </scene>
-        <!--View Controller-->
+        <!--Library View Controller-->
         <scene sceneID="5C6-VD-OHP">
             <objects>
-                <viewController id="hgJ-Xp-ue4" customClass="ViewController" sceneMemberID="viewController">
+                <viewController id="hgJ-Xp-ue4" customClass="LibraryViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="7Wj-n5-wgZ">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -88,10 +88,10 @@
             </objects>
             <point key="canvasLocation" x="1076" y="-1463"/>
         </scene>
-        <!--View Controller-->
+        <!--Coat Room View Controller-->
         <scene sceneID="KaM-79-eSU">
             <objects>
-                <viewController id="jKy-Xg-vhD" customClass="ViewController" sceneMemberID="viewController">
+                <viewController id="jKy-Xg-vhD" customClass="CoatRoomViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="swd-AQ-zzs">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -134,10 +134,10 @@
             </objects>
             <point key="canvasLocation" x="1076" y="134"/>
         </scene>
-        <!--View Controller-->
+        <!--Stairs Up View Controller-->
         <scene sceneID="4Kp-Ea-CoM">
             <objects>
-                <viewController id="KPZ-hd-2tX" customClass="ViewController" sceneMemberID="viewController">
+                <viewController id="KPZ-hd-2tX" customClass="StairsUpViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="ZwI-gY-WGm">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -172,10 +172,10 @@
             </objects>
             <point key="canvasLocation" x="2186" y="78"/>
         </scene>
-        <!--View Controller-->
+        <!--Dining Room View Controller-->
         <scene sceneID="2E8-Gg-SJj">
             <objects>
-                <viewController id="0Ug-P6-zGz" customClass="ViewController" sceneMemberID="viewController">
+                <viewController id="0Ug-P6-zGz" customClass="DiningRoomViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Net-AL-glW">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -202,10 +202,10 @@
             </objects>
             <point key="canvasLocation" x="1076" y="807"/>
         </scene>
-        <!--View Controller-->
+        <!--Kitchen View Controller-->
         <scene sceneID="dGO-SM-Crs">
             <objects>
-                <viewController id="e7a-Mc-E4a" customClass="ViewController" sceneMemberID="viewController">
+                <viewController id="e7a-Mc-E4a" customClass="KitchenViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="mLd-lX-LFY">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -219,7 +219,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Back Porch"/>
                                 <connections>
-                                    <segue destination="Pna-MC-Juu" kind="show" identifier="toPorch" id="xDX-JS-f3U"/>
+                                    <segue destination="Pna-MC-Juu" kind="show" id="xDX-JS-f3U"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -232,10 +232,10 @@
             </objects>
             <point key="canvasLocation" x="1076" y="1564"/>
         </scene>
-        <!--View Controller-->
+        <!--Back Porch View Controller-->
         <scene sceneID="tdw-yz-xxm">
             <objects>
-                <viewController id="Pna-MC-Juu" customClass="ViewController" sceneMemberID="viewController">
+                <viewController id="Pna-MC-Juu" customClass="BackPorchViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="J5j-na-RWY">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -254,10 +254,10 @@
             </objects>
             <point key="canvasLocation" x="1076" y="2344"/>
         </scene>
-        <!--View Controller-->
+        <!--Bedroom View Controller-->
         <scene sceneID="ZZr-Dy-ZbC">
             <objects>
-                <viewController id="pf2-yx-Abe" customClass="ViewController" sceneMemberID="viewController">
+                <viewController id="pf2-yx-Abe" customClass="BedroomViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="SSH-8J-Sfz">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -276,10 +276,10 @@
             </objects>
             <point key="canvasLocation" x="2185" y="806"/>
         </scene>
-        <!--View Controller-->
+        <!--Bathroom View Controller-->
         <scene sceneID="g8W-HS-eda">
             <objects>
-                <viewController id="6dM-Ko-BM3" customClass="ViewController" sceneMemberID="viewController">
+                <viewController id="6dM-Ko-BM3" customClass="BathroomViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="exT-uX-OwI">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -298,10 +298,10 @@
             </objects>
             <point key="canvasLocation" x="3257" y="806"/>
         </scene>
-        <!--View Controller-->
+        <!--Secret Passage View Controller-->
         <scene sceneID="5FR-tn-3Wh">
             <objects>
-                <viewController id="sc5-5N-9rH" customClass="ViewController" sceneMemberID="viewController">
+                <viewController id="sc5-5N-9rH" customClass="SecretPassageViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="bdR-wu-fr6">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -344,10 +344,10 @@
             </objects>
             <point key="canvasLocation" x="69.599999999999994" y="832.53373313343332"/>
         </scene>
-        <!--View Controller-->
+        <!--Dungeon View Controller-->
         <scene sceneID="5rl-22-gj1">
             <objects>
-                <viewController id="20O-Ta-gXF" customClass="ViewController" sceneMemberID="viewController">
+                <viewController id="20O-Ta-gXF" customClass="DungeonViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Ku8-Qz-hCk">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -366,10 +366,10 @@
             </objects>
             <point key="canvasLocation" x="-1362" y="833"/>
         </scene>
-        <!--View Controller-->
+        <!--Labratory View Controller-->
         <scene sceneID="ibj-dt-1Yd">
             <objects>
-                <viewController id="Qy1-Lr-BUA" customClass="ViewController" sceneMemberID="viewController">
+                <viewController id="Qy1-Lr-BUA" customClass="LabratoryViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="GKQ-l4-cQU">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -383,7 +383,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Generator"/>
                                 <connections>
-                                    <segue destination="Gz4-oR-hyg" kind="show" identifier="toGenerator" id="uVl-g2-IEb"/>
+                                    <segue destination="Gz4-oR-hyg" kind="show" id="uVl-g2-IEb"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -396,10 +396,10 @@
             </objects>
             <point key="canvasLocation" x="-1362" y="1593"/>
         </scene>
-        <!--View Controller-->
+        <!--Generator View Controller-->
         <scene sceneID="HnL-7P-XpJ">
             <objects>
-                <viewController id="Gz4-oR-hyg" customClass="ViewController" sceneMemberID="viewController">
+                <viewController id="Gz4-oR-hyg" customClass="GeneratorViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="2IB-mU-DpU">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -418,10 +418,10 @@
             </objects>
             <point key="canvasLocation" x="-1362" y="2317"/>
         </scene>
-        <!--View Controller-->
+        <!--Mysterious Lake View Controller-->
         <scene sceneID="fBJ-aB-fa5">
             <objects>
-                <viewController id="1Qm-di-Z5r" customClass="ViewController" sceneMemberID="viewController">
+                <viewController id="1Qm-di-Z5r" customClass="MysteriousLakeViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="9gN-jP-xEu">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -448,10 +448,10 @@
             </objects>
             <point key="canvasLocation" x="70" y="1749"/>
         </scene>
-        <!--View Controller-->
+        <!--Cursed Chalice View Controller-->
         <scene sceneID="nfk-bu-MsI">
             <objects>
-                <viewController id="2Ef-us-ISC" customClass="ViewController" sceneMemberID="viewController">
+                <viewController id="2Ef-us-ISC" customClass="CursedChaliceViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="C2w-xg-0WL">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
